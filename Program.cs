@@ -6,8 +6,8 @@ namespace Classtwo
     {
         static void Main(string[] args)
         {
-           
 
+            Console.WriteLine("Hello world");
             Console.WriteLine("How many years experience do you have in professional programming");
             try
             {
